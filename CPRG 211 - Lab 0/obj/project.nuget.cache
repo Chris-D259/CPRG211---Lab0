@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "cHjMt6F10Ct8oy7YGjT84gHcr42x59Wy9UjBxZwOd+vKv/9MXjh0oIvqJmlGW6ReB/cr8d8JMLi2AEAyCzsI9A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Criff\\source\\repos\\CPRG 211 - Lab 0\\CPRG 211 - Lab 0\\CPRG 211 - Lab 0.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Criff\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.15\\microsoft.windowsdesktop.app.ref.7.0.15.nupkg.sha512",
+    "C:\\Users\\Criff\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.15\\microsoft.netcore.app.ref.7.0.15.nupkg.sha512",
+    "C:\\Users\\Criff\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.15\\microsoft.aspnetcore.app.ref.7.0.15.nupkg.sha512",
+    "C:\\Users\\Criff\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\7.0.15\\microsoft.netcore.app.host.win-x64.7.0.15.nupkg.sha512"
+  ],
+  "logs": []
+}

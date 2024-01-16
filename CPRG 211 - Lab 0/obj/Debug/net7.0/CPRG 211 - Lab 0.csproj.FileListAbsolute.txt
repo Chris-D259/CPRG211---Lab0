@@ -1,0 +1,14 @@
+C:\Users\Criff\source\repos\CPRG 211 - Lab 0\CPRG 211 - Lab 0\bin\Debug\net7.0\CPRG 211 - Lab 0.exe
+C:\Users\Criff\source\repos\CPRG 211 - Lab 0\CPRG 211 - Lab 0\bin\Debug\net7.0\CPRG 211 - Lab 0.deps.json
+C:\Users\Criff\source\repos\CPRG 211 - Lab 0\CPRG 211 - Lab 0\bin\Debug\net7.0\CPRG 211 - Lab 0.runtimeconfig.json
+C:\Users\Criff\source\repos\CPRG 211 - Lab 0\CPRG 211 - Lab 0\bin\Debug\net7.0\CPRG 211 - Lab 0.dll
+C:\Users\Criff\source\repos\CPRG 211 - Lab 0\CPRG 211 - Lab 0\bin\Debug\net7.0\CPRG 211 - Lab 0.pdb
+C:\Users\Criff\source\repos\CPRG 211 - Lab 0\CPRG 211 - Lab 0\obj\Debug\net7.0\CPRG 211 - Lab 0.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Criff\source\repos\CPRG 211 - Lab 0\CPRG 211 - Lab 0\obj\Debug\net7.0\CPRG 211 - Lab 0.AssemblyInfoInputs.cache
+C:\Users\Criff\source\repos\CPRG 211 - Lab 0\CPRG 211 - Lab 0\obj\Debug\net7.0\CPRG 211 - Lab 0.AssemblyInfo.cs
+C:\Users\Criff\source\repos\CPRG 211 - Lab 0\CPRG 211 - Lab 0\obj\Debug\net7.0\CPRG 211 - Lab 0.csproj.CoreCompileInputs.cache
+C:\Users\Criff\source\repos\CPRG 211 - Lab 0\CPRG 211 - Lab 0\obj\Debug\net7.0\CPRG 211 - Lab 0.dll
+C:\Users\Criff\source\repos\CPRG 211 - Lab 0\CPRG 211 - Lab 0\obj\Debug\net7.0\refint\CPRG 211 - Lab 0.dll
+C:\Users\Criff\source\repos\CPRG 211 - Lab 0\CPRG 211 - Lab 0\obj\Debug\net7.0\CPRG 211 - Lab 0.pdb
+C:\Users\Criff\source\repos\CPRG 211 - Lab 0\CPRG 211 - Lab 0\obj\Debug\net7.0\CPRG 211 - Lab 0.genruntimeconfig.cache
+C:\Users\Criff\source\repos\CPRG 211 - Lab 0\CPRG 211 - Lab 0\obj\Debug\net7.0\ref\CPRG 211 - Lab 0.dll

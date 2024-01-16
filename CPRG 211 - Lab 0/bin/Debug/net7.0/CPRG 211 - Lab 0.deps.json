@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "CPRG 211 - Lab 0/1.0.0": {
+        "runtime": {
+          "CPRG 211 - Lab 0.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CPRG 211 - Lab 0/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
